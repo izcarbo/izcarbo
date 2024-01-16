@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @izcarbo, a seasoned software engineer with 8+ years developing financial solutions.
+- 👀 I’m interested in exploring new technologies and sharing code samples.
+- 🌱 I’m currently learning about frontend frameworks.
+- 💞️ I’m looking to collaborate on innovative projects that make a real impact.
+- 📫 How to reach me: Drop me an email at niajeharry@gmail.com.
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: Swimmer, martial artist and lover of guns.
